@@ -201,8 +201,11 @@ int set_Parity(int fd,int databits,int stopbits,int parity,int flowctrl)
     options.c_cc[VMIN] = 0;
 
 	options.c_lflag &= ~(ECHO | ICANON);
-	options.c_iflag &= ~(BRKINT | ICRNL | INPCK | ISTRIP | IXON);  //发送0x11 0x13
+	options.c_iflag &= ~(BRKINT | ICRNL | INPCK | ISTRIP | IXON);  
 
+	/* additional information 
+
+	*/ 
     options.c_oflag &= ~OPOST;  
     options.c_cflag |= CLOCAL | CREAD;  
     options.c_lflag &= ~(ICANON | ECHO | ECHOE | ISIG); 
@@ -372,13 +375,13 @@ int main(int argc, char *argv[])
     			printf("%#02x ", dataRespValue[i]);
     		printf("\n"WD_NONE());
 		}
-//#define CRC
+#define CRC
 #ifdef CRC
 		if((((uint16_t)dataRespValue[18] << 8) | dataRespValue[17]) != crc_resp)
     	{
-    		perror(FG_RED()"\nRead invalue Value"WD_NONE());
     		printf("%#04x  %#04x\n", (((uint16_t)dataRespValue[18] << 8) | dataRespValue[17]), crc_resp);
-    		exit(-1);
+    		perror(FG_RED()"\nRead invalue Value: Receive again"WD_NONE());
+    		continue;
     	}  
 #endif
     	printf(FG_YELLOW()"\nValid value: \n");
