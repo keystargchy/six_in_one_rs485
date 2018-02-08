@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"crc",
+				"crc_send"
+			],
+			[
+				"my",
+				"mymine"
+			],
+			[
+				"init",
+				"init_name"
+			],
+			[
+				"set",
+				"set_value"
+			],
+			[
+				"D",
+				"DIR_INPUT"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/X/atmel-test/application/rs485/six_in_one.c",
+			"settings":
+			{
+				"buffer_size": 14973,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"chin",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/X/atmel-test/application/rs485",
+		"/X/atmel-test/application/mycom"
+	],
+	"file_history":
+	[
+		"/X/atmel-test/application/rs485/gpiolib.c",
+		"/X/atmel-test/application/mycom/resp_example.c",
+		"/X/atmel-test/application/com/com_example.c",
+		"/X/atmel-test/application/rs485/rs485.c",
+		"/X/atmel-test/application/gpio/gpio_example.c",
+		"/X/atmel-test/application/rs485/Makefile",
+		"/X/atmel-test/application/rs485/gpiolib.h",
+		"/X/atmel-test/application/mycom/send_example.c",
+		"/X/atmel-test/application/gpio/gpiolib.h",
+		"/X/atmel-test/application/gpio/gpiolib.c",
+		"/X/atmel-test/application/com/Makefile",
+		"/X/atmel-test/drivers/notifier/test_notifier_chain_2.c",
+		"/X/atmel-test/drivers/notifier/test_notifier_chain_1.c",
+		"/X/atmel-test/drivers/notifier/test_notifier_chain_0.c",
+		"/X/atmel-test/drivers/notifier/Makefile",
+		"/X/atmel-test/drivers/notifier/test_notifier_chain_0",
+		"/X/atmel-test/drivers/notifier/test_notifier_chain_1",
+		"/X/atmel-test/drivers/notifier/test_notifier_chain_2",
+		"/X/atmel-test/drivers/bus/README",
+		"/X/atmel-test/drivers/bus/testmini.c",
+		"/X/atmel-test/drivers/bus/mini-class.h",
+		"/X/atmel-test/drivers/bus/mini-class.c",
+		"/X/atmel-test/drivers/bus/ldd_bus.c",
+		"/X/atmel-test/drivers/bus/ldd_bus.h",
+		"/X/atmel-test/drivers/bus/Makefile",
+		"/X/atmel-test/application/canapp/can.c",
+		"/X/atmel-test/application/canapp/can.h",
+		"/X/atmel-test/drivers/bus/ldd_bus.mod.c",
+		"/X/atmel-test/drivers/bus/.ldd_bus.o.cmd",
+		"/X/atmel-test/drivers/bus/ldd.c",
+		"/X/atmel-test/application/canapp/Makefile",
+		"/X/drivers/1-wire/ds18b20_stm32/ds18b20.c",
+		"/X/drivers/1-wire/ds18b20_stm32/test.c",
+		"/X/drivers/1-wire/ds18b20_stm32/ds18b20.h",
+		"/X/drivers/1-wire/ds18b20_s3c2440/devs.h",
+		"/X/drivers/1-wire/ds18b20_s3c2440/devs.c",
+		"/X/drivers/1-wire/ds18b20_s3c2440/ds18b20.c",
+		"/X/drivers/1-wire/ds18b20/ds18b20.h",
+		"/X/drivers/1-wire/ds18b20/test.c",
+		"/X/drivers/1-wire/ds18b20/ds18b20.c",
+		"/X/drivers/1-wire/ds18b20/test.c.dump",
+		"/X/drivers/1-wire/ds18b20/ds18b20.h.dump",
+		"/X/drivers/1-wire/ds18b20/ds18b20.c.dump",
+		"/X/module_test/Adc/adc.c",
+		"/X/module_test/Adc/Makefile",
+		"/X/module_test/Adc/sublime/adc.sublime-project",
+		"/X/module_test/Fan_Driver/fan_driver.h",
+		"/X/module_test/Fan_Driver/fan_driver_lib.c",
+		"/X/module_test/Fan_Driver/fan_driver.c",
+		"/X/application/gpio/gpio_example.c",
+		"/X/application/gpio/gpiolib.c",
+		"/X/application/gpio/gpiolib.h",
+		"/X/module_test/Fan_Driver/Makefile",
+		"/X/application/gpio/Makefile",
+		"/E/学习资料/4412开发板资料/实验代码/1、ARM体系结构与接口技术/实验代码/14-I2C/main.c",
+		"/E/学习资料/4412开发板资料/实验代码/1、ARM体系结构与接口技术/实验代码/14-I2C/common/include/exynos_4412.h",
+		"/E/学习资料/4412开发板资料/实验代码/1、ARM体系结构与接口技术/实验代码/09-ADC/main.c",
+		"/E/学习资料/4412开发板资料/实验代码/1、ARM体系结构与接口技术/实验代码/09-ADC/common/include/exynos_4412.h",
+		"/E/学习资料/4412开发板资料/实验代码/1、ARM体系结构与接口技术/实验代码/05-Ket_Int/main.c",
+		"/E/学习资料/4412开发板资料/实验代码/1、ARM体系结构与接口技术/实验代码/05-Ket_Int/common/include/stdarg.h",
+		"/E/学习资料/4412开发板资料/实验代码/1、ARM体系结构与接口技术/实验代码/05-Ket_Int/start/start.S",
+		"/E/学习资料/4412开发板资料/实验代码/1、ARM体系结构与接口技术/实验代码/05-Ket_Int/common/src/printf.c",
+		"/E/学习资料/4412开发板资料/实验代码/1、ARM体系结构与接口技术/实验代码/05-Ket_Int/common/src/uart.c",
+		"/E/学习资料/4412开发板资料/实验代码/1、ARM体系结构与接口技术/实验代码/10-UART/main.c",
+		"/E/学习资料/4412开发板资料/实验代码/1、ARM体系结构与接口技术/实验代码/10-UART/common/include/exynos_4412.h",
+		"/E/学习资料/4412开发板资料/实验代码/1、ARM体系结构与接口技术/实验代码/10-UART/common/src/printf.c",
+		"/E/学习资料/4412开发板资料/实验代码/1、ARM体系结构与接口技术/实验代码/10-UART/start/start.S"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"addrflag",
+			"set_com_opt",
+			"CRTSCTS",
+			"Pa22",
+			"open_com_dev",
+			"set_com_opt",
+			"pin_idx",
+			"PIO_NUM",
+			"davinci_gio_dir",
+			"AT91PIO_DIR_INP",
+			"AT91PIO_DIR_OUT",
+			"AT91PIO_DIR_INP",
+			"recv_buff",
+			"speed",
+			"xmit",
+			"platform",
+			"platform_drv_probe",
+			"}\n",
+			"platform",
+			" ",
+			"*)\n",
+			"int",
+			"extern",
+			"register_ldd_device",
+			"extern",
+			"platform",
+			"filter",
+			"can_filter",
+			"can_read",
+			"can_show_header",
+			"srr",
+			"s3c_device_ds18b20_dmamask",
+			"DS18B20_Init",
+			"STATE_NOINIT",
+			"get_gpio_input",
+			"FAIL",
+			"I2CADD"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ldd"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/X/atmel-test/application/rs485/six_in_one.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								409,
+								409
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "six_in_one.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
